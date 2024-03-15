@@ -3,7 +3,6 @@ module github.com/alice/checkers
 go 1.16
 
 require (
-	github.com/b9lab/checkers v0.0.0-20240212130432-209ef5a7283b
 	github.com/cosmos/cosmos-sdk v0.45.4
 	github.com/cosmos/ibc-go/v3 v3.0.0
 	github.com/gogo/protobuf v1.3.3
